@@ -1,4 +1,4 @@
-# spotify API jammming
+# Spotify API jammming
 I developed this appllication in parallel with codecademy tutorial. It allows users to access their accounts, search for songs, create playlists and add these lists to their spotify accounts.
 
 ## Live link of the project

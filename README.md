@@ -8,10 +8,10 @@ To run application, a spotify API client id is required. It is free of charge. J
 + copy your client id to `const clientId=` in the directory of src/util/Spotify.js
 
 To run application on your local computer, you will need npm:
-+ check whether you have npm or not; enter "npm -v" on your command line and if you see something like 6.14.8 it means you have npm.
++ check whether you have npm or not; enter `npm -v` on your command line and if you see something like 6.14.8 it means you have npm.
 + if you do not, visit [node.js](https://nodejs.org/tr/download/). Download and install node.js and npm will be installed automatically with it.
 + go to the directory of downloaded code in your computer via command line.
-+ enter "npm install" and when it is finished, then "npm start".
++ enter `npm install` and when it is finished, then `npm start`.
 + application should be started automatically on your web browser.
 
 ## Technologies

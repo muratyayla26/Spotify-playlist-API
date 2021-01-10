@@ -1,8 +1,8 @@
 # Spotify API jammming
 I developed this appllication in parallel with codecademy tutorial. It allows users to access their accounts, search for songs, create playlists and add these lists to their spotify accounts.
 
-## Live link of the project
-https://distracted-jennings-bccf7a.netlify.app
+## [Live link of the project](https://distracted-jennings-bccf7a.netlify.app)
+
 
 To run application, a spotify API client id is required. It is free of charge. Just visit [Spotify dashboard](https://developer.spotify.com/dashboard/) and follow instructions !
 + copy your client id to `const clientId=` in the directory of src/util/Spotify.js

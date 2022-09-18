@@ -5,8 +5,8 @@ I developed this appllication in parallel with codecademy tutorial. It allows us
 
 ![](images/overview.png)
 
-To run application, a spotify API client id is required. It is free of charge. Just visit [Spotify dashboard](https://developer.spotify.com/dashboard/) and follow instructions !
-+ copy your client id to `const clientId=` in the directory of src/util/Spotify.js
+To run application locally, a spotify API client id is required. It is free of charge. Just visit [Spotify dashboard](https://developer.spotify.com/dashboard/) and follow instructions!
++ copy your client id to `const clientId=` in the directory of src/util/Spotify.js or create a .env file in the root directory and then create a variable named REACT_APP_API_KEY with client id value from spotify dashboard.
 
 To run application on your local computer, you will need npm:
 + check whether you have npm or not; enter `npm -v` on your command line and if you see something like 6.14.8 it means you have npm.
